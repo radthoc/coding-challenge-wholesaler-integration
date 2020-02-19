@@ -2,7 +2,7 @@
   "data": [
     {
       "PRODUCT_IDENTIFIER": "12345600001",
-      "EAN_CODE_GTIN": "05449000000001",
+      "EAN_CODE_GTIN": "24880602029766",
       "BRAND": "Drinks Corp.",
       "NAME": "Soda Drink, 12x 1L",
       "PACKAGE": "case",
@@ -13,7 +13,7 @@
     },
     {
       "PRODUCT_IDENTIFIER": "12345600002",
-      "EAN_CODE_GTIN": "05449000000002",
+      "EAN_CODE_GTIN": "24880602029773",
       "BRAND": "Drinks Corp.",
       "NAME": "Orange Drink, 20x 0.5L",
       "PACKAGE": "case",
@@ -24,7 +24,7 @@
     },
     {
       "PRODUCT_IDENTIFIER": "12345600003",
-      "EAN_CODE_GTIN": "05449000000003",
+      "EAN_CODE_GTIN": "24880602029780",
       "BRAND": "Drinks Corp.",
       "NAME": "Beer, 6x 0.5L",
       "PACKAGE": "box",
@@ -35,7 +35,7 @@
     },
     {
       "PRODUCT_IDENTIFIER": "12345600004",
-      "EAN_CODE_GTIN": "05449000000004",
+      "EAN_CODE_GTIN": "24880602029797",
       "BRAND": "Drinks Corp.",
       "NAME": "Champagne",
       "PACKAGE": "BOTTLE",
