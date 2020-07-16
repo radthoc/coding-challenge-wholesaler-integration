@@ -7,7 +7,8 @@ namespace kollex\Dataprovider\Assortment;
 interface DataProvider
 {
     /**
-     * @return Product[]
+     * @param string $path
+     * @return ProductInterface[]
      */
-    public function getProducts() : array;
+    public function getProducts(string $path): array;
 }

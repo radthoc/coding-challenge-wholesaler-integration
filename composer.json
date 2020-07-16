@@ -1,16 +1,33 @@
 {
   "name": "kollex/coding-challenge-wholesaler-integration",
   "description": "kollex Coding Challenge: Wholesaler Assortment",
-  "autoload": {
-    "psr-0": {
-      "kollex\\": "src/"
-    }
-  },
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0",
+    "laravel/framework": "5.4.*",
+    "laravel/tinker": "~1.0"
   },
   "require-dev": {
+    "fzaninotto/faker": "~1.4",
+    "mockery/mockery": "0.9.*",
+    "phpunit/phpunit": "~5.7"
   },
-  "suggest": {
+  "autoload": {
+    "classmap": [
+      "database"
+    ],
+    "psr-4": {
+      "kollex\\": "src/",
+      "App\\": "app/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
   }
 }
